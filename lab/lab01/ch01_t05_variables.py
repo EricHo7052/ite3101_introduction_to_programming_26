@@ -1,1 +1,1 @@
-todays_date = 8date.today().isoformat()
+todays_date = date.today().isoformat()
