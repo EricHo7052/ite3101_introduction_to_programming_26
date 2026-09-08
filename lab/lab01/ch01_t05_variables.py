@@ -1,2 +1,2 @@
 
-todays_date = datetime.today()
+todays_date = ""
