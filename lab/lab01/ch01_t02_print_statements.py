@@ -1,1 +1,1 @@
-print()
+print(stat)
