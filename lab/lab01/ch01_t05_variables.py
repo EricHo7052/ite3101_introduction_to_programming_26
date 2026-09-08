@@ -1,1 +1,1 @@
-todays_date = print(today)
+todays_date = date.today()
