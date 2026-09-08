@@ -1,1 +1,1 @@
-todays_date = "Sep 9, 2026"
+todays_date = print(today)
