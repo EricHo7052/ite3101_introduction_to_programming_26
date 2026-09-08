@@ -1,1 +1,1 @@
-print(stat)
+print(statements)
