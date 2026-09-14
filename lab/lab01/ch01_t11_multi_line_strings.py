@@ -1,3 +1,3 @@
-haiku = str("""The old pond, 
+haiku_string = """The old pond, 
 A frog jumps in: 
-Plop!""")
+Plop!"""
