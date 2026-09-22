@@ -1,4 +1,4 @@
-bool_one = 3 > 5 
+bool_one = 3 > 5 and 
 
 bool_two = None
 
