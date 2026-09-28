@@ -1,4 +1,4 @@
-bool_one = False
+bool_one = 2 > 3
 
 bool_two = False
 
