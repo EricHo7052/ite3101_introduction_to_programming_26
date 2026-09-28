@@ -1,8 +1,8 @@
 bool_one = 2 > 3
 
-bool_two = 2>
+bool_two = 2 > 3
 
-bool_three = True
+bool_three = Tru
 
 bool_four = True
 
