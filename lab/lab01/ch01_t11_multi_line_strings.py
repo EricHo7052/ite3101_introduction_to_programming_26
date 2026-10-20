@@ -2,4 +2,4 @@ haiku = """The old pond,
 A frog jumps in:
 Plop!"""
 
-print("haiku")
+print("test")
