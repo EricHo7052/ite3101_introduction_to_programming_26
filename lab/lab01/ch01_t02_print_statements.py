@@ -1,1 +1,1 @@
-print("Python 3")
+print("Python3")
