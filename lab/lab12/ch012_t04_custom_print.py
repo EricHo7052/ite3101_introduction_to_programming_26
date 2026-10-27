@@ -3,6 +3,6 @@ for i in range(5):
     board.append(['O'] * 5)
 
 
-def print_board(board_in: List[list[str]]):
+def print_board(board_in: List[list[str]]): -> None:
     for row in board_in:
         print(row)
