@@ -2,4 +2,4 @@
 
 my_string = "Abc"
 print(len(my_string))
-print(upper(my_string))
+print(str.upper(my_string))
