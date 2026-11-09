@@ -7,6 +7,3 @@ def by_three(number: float) -> float:
         return cube(number)
     else:
         return False
-
-
-print(by_three(6))
