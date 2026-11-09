@@ -2,4 +2,4 @@ def cube(number: float) -> float:
     return number * number * number
 
 
-print(cube(3))
+print(cube(9))
