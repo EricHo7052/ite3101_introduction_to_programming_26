@@ -1,5 +1,5 @@
-def cube number(n: float) -> float:
-    return n * n * n
+def cube(number: float) -> float:
+    return number * number * number
 
 
 print(number(3))
