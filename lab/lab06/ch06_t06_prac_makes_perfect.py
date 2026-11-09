@@ -9,4 +9,4 @@ def by_three(number: float) -> float:
         return False
 
 
-print(by_three(9))
+print(by_three(6))
