@@ -8,4 +8,5 @@ def by_three(number: float) -> float:
     else:
         return False
 
-    print(by_three(9))
+
+print(by_three(9))
