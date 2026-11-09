@@ -6,4 +6,4 @@ def deserves_another(n: int):
     return one_good_turn(n) + 2
 
 
-print(deserves_another(5))
+print(deserves_another(20))
