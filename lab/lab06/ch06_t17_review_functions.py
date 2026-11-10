@@ -6,6 +6,3 @@ def shut_down(s):
         return "Shutdown aborted"
     else:
         return "Sorry"
-
-
-print(shut_down("abc"))
