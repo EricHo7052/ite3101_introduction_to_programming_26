@@ -8,4 +8,4 @@ def shut_down(s):
         return "Sorry"
 
 
-print(shut_down("No"))
+print(shut_down("Yes"))
