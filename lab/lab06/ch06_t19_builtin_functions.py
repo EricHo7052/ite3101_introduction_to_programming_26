@@ -3,6 +3,3 @@ def distance_from_zero(x):
         return abs(x)
     else:
         return "Nope"
-
-
-print(distance_from_zero(30))
