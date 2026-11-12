@@ -1,5 +1,5 @@
 inventory = {
-    'gold': 500, 50
+    'gold': 500,
     # Assigned a new list to 'pouch' key
     'pouch': ['flint', 'twine', 'gemstone'],
     'backpack': ['xylophone', 'dagger', 'bedroll', 'bread loaf'],
@@ -15,3 +15,4 @@ inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 inventory['pouch'].sort()
 
 # Your code here
+inventory['gold'] += 50
