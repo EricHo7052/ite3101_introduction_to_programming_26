@@ -1,4 +1,5 @@
 animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
+print(animals.index("duck"))
 duck_index = None  # Use index() to find "duck"
 
 # Your code here!
