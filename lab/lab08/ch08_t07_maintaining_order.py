@@ -1,8 +1,8 @@
 animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
 print(animals.index("duck"))
-duck_index = None  # Use index() to find "duck"
+duck_index = 2  # Use index() to find "duck"
 
 # Your code here!
-
+animals.insert(2, "cobra")
 
 print(animals)  # Observe what prints after the insert operation
