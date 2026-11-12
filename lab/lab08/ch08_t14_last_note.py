@@ -1,10 +1,12 @@
 inventory = {
-    'gold': 500,
+    'gold': 500, 50
     # Assigned a new list to 'pouch' key
     'pouch': ['flint', 'twine', 'gemstone'],
-    'backpack': ['xylophone', 'dagger', 'bedroll', 'bread loaf']
+    'backpack': ['xylophone', 'dagger', 'bedroll', 'bread loaf'],
     'pocket': ['seashell', 'strange berry', 'lint']
 }
+inventory['backpack'].sort()
+inventory['backpack'].remove('dagger')
 
 # Adding a key 'burlap bag' and assigning a list to it
 inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
