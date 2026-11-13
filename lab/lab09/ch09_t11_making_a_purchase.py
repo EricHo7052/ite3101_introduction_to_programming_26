@@ -15,3 +15,13 @@ prices = {
 }
 
 # Write your code below!
+
+
+def compute_bill(food):
+    total = 0
+    for key in food:
+        key += total
+    return total
+
+
+print(compute_bill(shopping_list))
