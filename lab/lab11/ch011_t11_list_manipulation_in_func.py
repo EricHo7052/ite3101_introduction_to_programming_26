@@ -9,4 +9,4 @@ lst.append(9)
 return lst
 
 
-# print(list_extender(n))
+print(list_extender(n))
